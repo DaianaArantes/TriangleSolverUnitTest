@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DArantesAssignment2", "DArantesAssignment2\DArantesAssignment2.csproj", "{84448D7A-5D4B-463E-971D-AF8614E2E98E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DArantesAssignment2.Tests", "DArantesAssignment2.Tests\DArantesAssignment2.Tests.csproj", "{5FF9BEF1-04A0-4270-B301-3658E0C37037}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84448D7A-5D4B-463E-971D-AF8614E2E98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84448D7A-5D4B-463E-971D-AF8614E2E98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84448D7A-5D4B-463E-971D-AF8614E2E98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84448D7A-5D4B-463E-971D-AF8614E2E98E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FF9BEF1-04A0-4270-B301-3658E0C37037}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF9BEF1-04A0-4270-B301-3658E0C37037}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF9BEF1-04A0-4270-B301-3658E0C37037}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF9BEF1-04A0-4270-B301-3658E0C37037}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C17CBD0-A9D4-43EA-874A-907EE8AE4581}
+	EndGlobalSection
+EndGlobal

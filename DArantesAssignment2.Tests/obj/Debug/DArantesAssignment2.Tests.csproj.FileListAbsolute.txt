@@ -1,0 +1,13 @@
+C:\Users\daian\OneDrive\College\QualityAssurance\DArantesAssignment2\DArantesAssignment2.Tests\bin\Debug\DArantesAssignment2.Tests.dll
+C:\Users\daian\OneDrive\College\QualityAssurance\DArantesAssignment2\DArantesAssignment2.Tests\bin\Debug\DArantesAssignment2.Tests.pdb
+C:\Users\daian\OneDrive\College\QualityAssurance\DArantesAssignment2\DArantesAssignment2.Tests\bin\Debug\DArantesAssignment2.exe
+C:\Users\daian\OneDrive\College\QualityAssurance\DArantesAssignment2\DArantesAssignment2.Tests\bin\Debug\nunit.framework.dll
+C:\Users\daian\OneDrive\College\QualityAssurance\DArantesAssignment2\DArantesAssignment2.Tests\bin\Debug\DArantesAssignment2.pdb
+C:\Users\daian\OneDrive\College\QualityAssurance\DArantesAssignment2\DArantesAssignment2.Tests\bin\Debug\DArantesAssignment2.exe.config
+C:\Users\daian\OneDrive\College\QualityAssurance\DArantesAssignment2\DArantesAssignment2.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\daian\OneDrive\College\QualityAssurance\DArantesAssignment2\DArantesAssignment2.Tests\bin\Debug\nunit.framework.xml
+C:\Users\daian\OneDrive\College\QualityAssurance\DArantesAssignment2\DArantesAssignment2.Tests\obj\Debug\DArantesAssignment2.Tests.csprojAssemblyReference.cache
+C:\Users\daian\OneDrive\College\QualityAssurance\DArantesAssignment2\DArantesAssignment2.Tests\obj\Debug\DArantesAssignment2.Tests.csproj.CoreCompileInputs.cache
+C:\Users\daian\OneDrive\College\QualityAssurance\DArantesAssignment2\DArantesAssignment2.Tests\obj\Debug\DArantesAssignment2.Tests.csproj.CopyComplete
+C:\Users\daian\OneDrive\College\QualityAssurance\DArantesAssignment2\DArantesAssignment2.Tests\obj\Debug\DArantesAssignment2.Tests.dll
+C:\Users\daian\OneDrive\College\QualityAssurance\DArantesAssignment2\DArantesAssignment2.Tests\obj\Debug\DArantesAssignment2.Tests.pdb
